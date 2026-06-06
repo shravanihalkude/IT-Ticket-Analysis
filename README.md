@@ -19,10 +19,10 @@ Study the relationship between issue severity and resolution time.
 Generate actionable insights for improving IT support operations.
 
 # Tools Used
-Microsoft Excel
-Pivot Tables
-Data Cleaning & Transformation
-Dashboard Design & Visualization
+Microsoft Excel,
+Pivot Tables,
+Data Cleaning & Transformation,
+Dashboard Design & Visualization.
 
 # Key Insights
 Analyzed 97,498 IT support tickets.
